@@ -7,5 +7,6 @@ Due to lack of time before the deadline of the final, the AI plays at a somewhat
 
 ## Use
 Compile and run via `appletviewer` in the console
+
 Switching between single and 2 player mode can be changed in the .html file's single player boolean property.
 
