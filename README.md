@@ -5,7 +5,7 @@ As such, this project turned into more of a proof of concept/research into basic
 
 Due to lack of time before the deadline of the final, the AI plays at a somewhat competent level, but does have bugs that could be fixed after revision.
 
-[Applet View]: https://github.com/sashaouellet/chess/ChessApplet.png "Chess Applet Example View"
+![Applet View](https://github.com/sashaouellet/chess/ChessApplet.png "Chess Applet Example View")
 
 ## Use
 Compile and run via `appletviewer` in the console
